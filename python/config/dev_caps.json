@@ -1,0 +1,11 @@
+{
+  "server_url": "http://localhost:4723",
+  "caps": {
+    "platformName": "Android",
+    "deviceName": "emulator-5554",
+    "appPackage": "com.castalk.app.uat",
+    "appActivity": "com.castalk.app.feature.user.auth.AuthActivity",
+    "automationName": "UiAutomator2"
+    ,"noReset": true
+  }
+}
