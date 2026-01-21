@@ -285,7 +285,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **Author:** Nguyen Duong
 
 - GitHub: [nguyenduong1901](https://github.com/nguyenduong1901)
-- Email: nguyenduong1901@example.com
+- Email: nguyenduong1901@gmail.com
 
 For questions, issues, or feature requests, please open an issue on GitHub.
 
